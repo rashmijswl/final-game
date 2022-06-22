@@ -1,21 +1,21 @@
 id,location,t1,t2,t3,t4,Story,Navigation,win,lose,host1,host2,weather
-1,vaughn,2,3,4,5,You are now in vaughn and here you are going to go to the wonderland,Press 1 to go to kitchener 2 to go to waterloo 3 to go to guelph and FOUR to go to toronto,0,0,0,0,1
-2,kitchener,1,3,4,8,You are now in kitchener. Opps no kitchens here,Press 1 to go to vaughn 2 to go to waterloo 3 to go to guelph and FOUR to go to maple,0,0,0,1,1
-3,waterloo,2,4,5,11,"You are now in waterloo. The one in Ontaio, Canada",Press 1 to go to kitchener 2 to go to guelph 3 to go to toronto and FOUR to go to tottenham,0,0,0,1,1
-4,guelph,3,2,1,6,You are now in guelph. You will be visiting the Aboratorium,Press 1 to go to waterloo 2 to go to kitchener 3 to go to vaughn and FOUR to go to missisauga,0,0,0,0,1
-5,toronto,4,6,7,12,You are now in toronto. Lets find you a job. LOL,Press 1 to go to guelph 2 to go to missisauga 3 to go to sudbury and FOUR to go to sarnia,0,0,0,0,1
-6,missisauga,5,8,1,2,You are now in missisauga. The Real estate is sky rocketing here,Press 1 to go to toronto 2 to go to maple 3 to go to vaughn and FOUR to go to kitchener,0,0,0,0,1
+1,vaughn,2,3,4,5,You are now in vaughn and here you are going to go to the wonderland,Press 1 to go to kitchener 2 to go to waterloo 3 to go to guelph and 4 to go to toronto,0,0,0,0,1
+2,kitchener,1,3,4,8,You are now in kitchener. Opps no kitchens here,Press 1 to go to vaughn 2 to go to waterloo 3 to go to guelph and 4 to go to maple,0,0,0,1,1
+3,waterloo,2,4,5,11,"You are now in waterloo. The one in Ontaio, Canada",Press 1 to go to kitchener 2 to go to guelph 3 to go to toronto and 4 to go to tottenham,0,0,0,1,1
+4,guelph,3,2,1,6,You are now in guelph. You will be visiting the Aboratorium,Press 1 to go to waterloo 2 to go to kitchener 3 to go to vaughn and 4 to go to missisauga,0,0,0,0,1
+5,toronto,4,6,7,12,You are now in toronto. Lets find you a job. LOL,Press 1 to go to guelph 2 to go to missisauga 3 to go to sudbury and 4 to go to sarnia,0,0,0,0,1
+6,missisauga,5,8,1,2,You are now in missisauga. The Real estate is sky rocketing here,Press 1 to go to toronto 2 to go to maple 3 to go to vaughn and 4 to go to kitchener,0,0,0,0,1
 7,sudbury,,,,,You are now in sudbury. YOU WON as you have reached the college!!!!!!!! YEEEEEEEEEEYYYYYYEE,,1,0,0,1,1
-8,maple,20,9,10,12,You are now in maple. The leaf but no.,Press 1 to go to whitby 2 to go to london 3 to go to cambridge and FOUR to go to sarnia,0,0,0,0,1
-9,london,8,11,13,15,You are now in london. Not the one in UK,Press 1 to go to maple 2 to go to tottenham 3 to go to thunder bay and FOUR to go to ottawa,0,0,0,0,0
-10,cambridge,9,17,11,,You are now in cambridge again Not the one in UK,Press 1 to go to london 2 to go to markham 3 to go to tottenham and FOUR to go to,0,0,0,1,1
-11,tottenham,10,16,19,8,You are now in tottenham. You will be visting South Simcoe Railway,Press 1 to go to cambridge 2 to go to hamilton 3 to go to east york and FOUR to go to maple,0,0,0,1,0
-12,sarnia,11,18,20,2,"You are now in sarnia, not Narnia",Press 1 to go to tottenham 2 to go to north york 3 to go to whitby and FOUR to go to kitchener,0,0,0,0,1
+8,maple,20,9,10,12,You are now in maple. The leaf but no.,Press 1 to go to whitby 2 to go to london 3 to go to cambridge and 4 to go to sarnia,0,0,0,0,1
+9,london,8,11,13,15,You are now in london. Not the one in UK,Press 1 to go to maple 2 to go to tottenham 3 to go to thunder bay and 4 to go to ottawa,0,0,0,0,0
+10,cambridge,9,17,11,,You are now in cambridge again Not the one in UK,Press 1 to go to london 2 to go to markham 3 to go to tottenham and 4 to go to,0,0,0,1,1
+11,tottenham,10,16,19,8,You are now in tottenham. You will be visting South Simcoe Railway,Press 1 to go to cambridge 2 to go to hamilton 3 to go to east york and 4 to go to maple,0,0,0,1,0
+12,sarnia,11,18,20,2,"You are now in sarnia, not Narnia",Press 1 to go to tottenham 2 to go to north york 3 to go to whitby and 4 to go to kitchener,0,0,0,0,1
 13,thunder bay,,,,,You are now in thunder bay. Thunder struck you and YOU LOSE!!!!!!!111,,0,1,0,0,0
-14,scarborough,13,20,18,8,You are now in scarborough and,Press 1 to go to thunder bay 2 to go to whitby 3 to go to north york and FOUR to go to maple,0,0,0,1,1
-15,ottawa,14,4,8,6,You are now in ottawa. Here you are going to zipline to montreal,Press 1 to go to scarborough 2 to go to guelph 3 to go to maple and FOUR to go to missisauga,0,0,0,1,1
-16,hamilton,15,18,17,9,You are now in hamilton. That were Rashmi's part time head office is,Press 1 to go to ottawa 2 to go to north york 3 to go to markham and FOUR to go to london,0,0,0,0,0
-17,markham,16,8,12,11,You are now in markham. You will be harvesing some crops in Organics Family Farm,Press 1 to go to hamilton 2 to go to maple 3 to go to sarnia and FOUR to go to tottenham,0,0,0,1,0
-18,north york,17,5,4,20,You are now in north york. You will be playing at Escape Games Canada,Press 1 to go to markham 2 to go to toronto 3 to go to guelph and FOUR to go to whitby,0,0,0,0,0
-19,east york,18,20,17,11,You are now in east york. You get the best beer here at Muddy York Brewing Co.,Press 1 to go to north york 2 to go to whitby 3 to go to markham and FOUR to go to tottenham,0,0,0,1,1
-20,whitby,19,18,7,16,You are now in whitby. You will be visiting Lynde House Museum,Press 1 to go to east york 2 to go to north york 3 to go to sudbury and FOUR to go to hamilton,0,0,0,0,1
+14,scarborough,13,20,18,8,You are now in scarborough and,Press 1 to go to thunder bay 2 to go to whitby 3 to go to north york and 4 to go to maple,0,0,0,1,1
+15,ottawa,14,4,8,6,You are now in ottawa. Here you are going to zipline to montreal,Press 1 to go to scarborough 2 to go to guelph 3 to go to maple and 4 to go to missisauga,0,0,0,1,1
+16,hamilton,15,18,17,9,You are now in hamilton. That were Rashmi's part time head office is,Press 1 to go to ottawa 2 to go to north york 3 to go to markham and 4 to go to london,0,0,0,0,0
+17,markham,16,8,12,11,You are now in markham. You will be harvesing some crops in Organics Family Farm,Press 1 to go to hamilton 2 to go to maple 3 to go to sarnia and 4 to go to tottenham,0,0,0,1,0
+18,north york,17,5,4,20,You are now in north york. You will be playing at Escape Games Canada,Press 1 to go to markham 2 to go to toronto 3 to go to guelph and 4 to go to whitby,0,0,0,0,0
+19,east york,18,20,17,11,You are now in east york. You get the best beer here at Muddy York Brewing Co.,Press 1 to go to north york 2 to go to whitby 3 to go to markham and 4 to go to tottenham,0,0,0,1,1
+20,whitby,19,18,7,16,You are now in whitby. You will be visiting Lynde House Museum,Press 1 to go to east york 2 to go to north york 3 to go to sudbury and 4 to go to hamilton,0,0,0,0,1
